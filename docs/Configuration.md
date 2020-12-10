@@ -25,6 +25,7 @@ site_url: 'https://anthonyblackham.com/readthedocs'
 # Repository
 repo_name: 'readthedocs'
 repo_url: 'https://github.com/anthonyblackham/readthedocs'
+edit_uri: 'edit/main/docs/'
 
 # Copyright
 copyright: 'Copyright &copy; 2020 Anthony Blackham'
