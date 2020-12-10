@@ -1,0 +1,27 @@
+# Project information
+site_name: 'Read the Docs'
+site_description: 'Documentation using MkDocs with the Read the Docs theme'
+site_author: 'Anthony Blackham'
+site_url: 'https://anthonyblackham.com/readthedocs'
+
+# Repository
+repo_name: 'readthedocs'
+repo_url: 'https://github.com/anthonyblackham/readthedocs'
+
+# Copyright
+copyright: 'Copyright &copy; 2020 Anthony Blackham'
+
+# Configuration
+theme:
+  name: 'readthedocs'
+  language: 'en'
+  highlightjs: true
+
+# Pages
+pages:
+- Home: index.md
+- Installation: Installation.md
+- Getting Started: Getting-Started.md
+- Style Guide: Style-Guide.md
+- Configuration: Configuration.md
+- Deploy: Deploy.md
